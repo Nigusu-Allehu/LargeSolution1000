@@ -1,0 +1,10 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<Project>
+<PropertyGroup>
+  <CentralPackageTransitivePinningEnabled>true</CentralPackageTransitivePinningEnabled>
+</PropertyGroup>
+  <ItemGroup>
+    <PackageVersion Include="Microsoft.CSharp" Version="4.7.0" />
+  </ItemGroup>
+</Project>
